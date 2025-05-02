@@ -73,5 +73,34 @@ html,body{
 
 .filter:hover{
     background-color: #333333;
-    border: 1px solid black;
+    /* border: 1px solid black; */
+}
+
+.add,.delete{
+    height: 100%;
+    width: 50%;
+    
+    text-align: center;
+    color: white;
+    /* border: 1px solid red; */
+}
+
+.add{
+    font-size: 4rem;
+}
+.delete{
+    font-size: 4rem;
+}
+
+
+.add:hover{
+    background-color: #333333;
+    /* border: 1px solid black; */
+
+}
+
+.delete:hover{
+    background-color: #333333;
+    /* border: 1px solid black; */
+
 }
