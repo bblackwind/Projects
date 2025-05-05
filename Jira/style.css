@@ -110,7 +110,7 @@ html,body{
     position: fixed;
     height: 20rem;
     width: 38rem;
-    background-color: red;
+    /* background-color: red; */
     display: flex;
     top:calc((100vh - 20rem)/2);
     left:calc((100vw - 38rem)/2)
